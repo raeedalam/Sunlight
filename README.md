@@ -3,7 +3,7 @@
 Sunlight is one of the most modern and popular unblocking sites. 
 
 
-> **If you do fork this repo, please give the original repo a star! It helps out alot and only 30% of people who fork give us a star... besides, you know you want to...**
+> **If you do fork this repo, please give the original repo a star! It helps out alot and only 30% of people who fork give a star... besides, you know you want to...**
 
 - Fast Speeds 
 - Wide collection of Games.
