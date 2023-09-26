@@ -1,15 +1,10 @@
-# Interstellar V5
+# Sunlight
 
-Interstellar is one of the most modern and popular unblocking sites. 
-
-### [Join our Discord!](https://discord.gg/interstellar)
-##### By joining you will help the Interstellar community grow even larger ❤
-## Features
+Sunlight is one of the most modern and popular unblocking sites. 
 
 
 > **If you do fork this repo, please give the original repo a star! It helps out alot and only 30% of people who fork give us a star... besides, you know you want to...**
 
-- About:Blank Cloaking
 - Fast Speeds 
 - Wide collection of Games.
 - Tab Cloaking
