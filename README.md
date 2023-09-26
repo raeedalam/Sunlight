@@ -26,38 +26,3 @@ You can **NOT** deploy to Vercel, Netlify, Cloudflare Pages or any other **Stati
 <a target="_blank" href="https://railway.app/new/template?template=https://github.com/interstellarnetwork/interstellar"><img alt="Deploy on Railway" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg"></a>
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/interstellarnetwork/interstellar"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 <a target="_blank" href="https://render.com/deploy?repo=https://github.com/interstellarnetwork/interstellar"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
-
-## Deploy to Replit
-
-1. Create a Replit Account (https://replit.com)
-
-2. Click **+ Create Repl**
-
-3. Click **Template** and Change the language to **Node.js**
-
-4. Then click **Create Repl**
-
-5. Click **Shell**
-- Paste the code below. (Ctrl + Shift + V)
-- `git clone https://github.com/interstellarnetwork/interstellar`
-
-6. Once it's done cloning paste the code below. (Ctrl + Shift + V)
-
-- ``cd interstellar && npm i && npm run start``
-
-> **Note**
-> When hosting with replit you may have to keep the tab open due to the proxy being hosted within that tab. If closed, the site's domain will close and will not be accessible.  
-
-## If you need any help with deploying, join our Discord!
-- https://discord.gg/interstellar
-
-> **Note**
-> If you have any problems please open an issue, so we can fix it ASAP!
-> If you don't know how to do this because you are an absolute no-brainer then message us a report in our [Discord](https://discord.gg/interstellar)
-
-# Credits
-Huge thanks to following people for contributing to Interstellar.
-
-[![Contrib](https://contrib.rocks/image?repo=InterstellarNetwork/Interstellar)](https://github.com/InterstellarNetwork/Interstellar/graphs/contributors)
-
-
